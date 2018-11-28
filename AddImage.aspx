@@ -19,7 +19,7 @@
         <div class="appHeader">
             <span class="TitleHeader">Panel dodawania fotografii</span>
              <div class="LogoutPanel">
-            <asp:HyperLink ID="LogOut" runat="server" NavigateUrl="~/LoginPage.aspx">Wyloguj</asp:HyperLink>
+            <asp:HyperLink ID="LogOut" runat="server" NavigateUrl="~/LoginAuthorization.aspx">Wyloguj</asp:HyperLink>
                 </div>
             </div>
         <asp:Label ID="Label1" runat="server" Text="Witaj"></asp:Label>
