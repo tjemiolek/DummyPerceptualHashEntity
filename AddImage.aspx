@@ -22,7 +22,6 @@
             <asp:HyperLink ID="LogOut" runat="server" NavigateUrl="~/LoginAuthorization.aspx">Wyloguj</asp:HyperLink>
                 </div>
             </div>
-        <asp:Label ID="Label1" runat="server" Text="Witaj"></asp:Label>
         <div class="panel-group">
   <div class="panel panel-primary">
       <div class="panel-heading">Dodaj Plik</div>
