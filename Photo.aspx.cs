@@ -48,35 +48,6 @@ namespace DummyPerceptualProj
 
             }
 
-
-            //    photoId = Int32.Parse(urlId);
-            //    //ImageList.GetImage(urlId);
-            //    //var aaa = "";
-
-            //    AppUserImage appUImage = ImageList.GetImage(photoId);
-            //    System.Web.UI.WebControls.Image mainImg = new System.Web.UI.WebControls.Image();
-            //    mainImg.ImageUrl = appUImage.path.Trim();
-            //    MainPhoto.Controls.Add(mainImg);
-
-            //    List<string> similarPhoto = ImageList.GetSimilarImages(appUImage.dph);
-
-            //    Panel p = new Panel();
-            //    p.CssClass = "ImageClass";
-
-            //    if (similarPhoto.Count > 0)
-            //    {
-            //        for (int i = 0; i < similarPhoto.Count; i++)
-            //        {
-            //            System.Web.UI.WebControls.Image img = new System.Web.UI.WebControls.Image();
-            //            img.CssClass = "img-thumbnail";
-            //            img.ImageUrl = similarPhoto[i].Trim();
-            //            p.Controls.Add(img);
-            //        }
-            //    }
-
-            //    SimilarPhoto.Controls.Add(p);
-            //    var x = "sadasdasdasd";
-            //}
         }
     }
 }
